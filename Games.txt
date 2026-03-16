@@ -1,1 +1,2 @@
 0.0.0.0 surfertoday.com
+0.0.0.0 tntsports.cl
