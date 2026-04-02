@@ -2285,3 +2285,5 @@
 0.0.0.0 www.umatechnology.org
 0.0.0.0 www.venice.ai
 0.0.0.0 venice.ai
+0.0.0.0 www.quillbot.com
+0.0.0.0 quillbot.com
