@@ -2,3 +2,4 @@
 0.0.0.0 tntsports.cl
 0.0.0.0 surf.jackbuehner.com
 0.0.0.0 tiermaker.com
+0.0.0.0 play.tetris.com
