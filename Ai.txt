@@ -4577,3 +4577,4 @@
 0.0.0.0 www.quillbot.com
 0.0.0.0 quillbot.com
 0.0.0.0 luzia.com
+0.0.0.0 chat.luzia.com
