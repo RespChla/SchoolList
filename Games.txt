@@ -7,5 +7,5 @@
 0.0.0.0 duckduckgo.com
 0.0.0.0 search.brave.com
 0.0.0.0 depai.org
-0.0.0.0 duck ai
+0.0.0.0 duck.ai
 0.0.0.0 wplace.live
