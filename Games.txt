@@ -4,3 +4,4 @@
 0.0.0.0 tiermaker.com
 0.0.0.0 play.tetris.com
 0.0.0.0 futbol-11.com
+0.0.0.0 duckduckgo.com
