@@ -5,3 +5,5 @@
 0.0.0.0 play.tetris.com
 0.0.0.0 futbol-11.com
 0.0.0.0 duckduckgo.com
+0.0.0.0 search.brave.com
+0.0.0.0 depai.org
