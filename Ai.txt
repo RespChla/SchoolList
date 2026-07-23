@@ -4580,3 +4580,4 @@
 0.0.0.0 chat.luzia.com
 0.0.0.0 notebooklm.google.com
 0.0.0.0 notebooklm.google
+0.0.0.0 duck.ai
