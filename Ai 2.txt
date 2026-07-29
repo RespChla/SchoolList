@@ -8162,3 +8162,4 @@
 ||editpad.org^
 ||chat.chatex.ai^
 ||oreateai.com^
+||parafrasist.com^
