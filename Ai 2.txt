@@ -8160,3 +8160,4 @@
 ||zyngai.com^
 ||playground.allenai.org^
 ||editpad.org^
+||chat.chatex.ai^
