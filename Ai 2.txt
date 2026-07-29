@@ -8163,3 +8163,4 @@
 ||chat.chatex.ai^
 ||oreateai.com^
 ||parafrasist.com^
+||chatboxapp.ai^
