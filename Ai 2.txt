@@ -8158,3 +8158,5 @@
 ||zuva.ai^
 ||zyft.com^
 ||zyngai.com^
+||playground.allenai.org^
+||editpad.org^
