@@ -1,0 +1,43 @@
+! RespChla - Allowlist critica/educativa de referencia
+! No es necesario cargarla si usa las excepciones incluidas en cada archivo.
+! Cargarla completa puede reabrir dominios bloqueados por otras listas.
+
+@@||accounts.google.com^
+@@||admin.google.com^
+@@||android.googleapis.com^
+@@||appldnld.apple.com^
+@@||calendar.google.com^
+@@||chla.cl^
+@@||classroom.google.com^
+@@||clients2.google.com^
+@@||clients4.google.com^
+@@||dl.google.com^
+@@||docs.google.com^
+@@||doh.hispanola.lat^
+@@||download.microsoft.com^
+@@||download.windowsupdate.com^
+@@||drive.google.com^
+@@||forms.google.com^
+@@||gdmf.apple.com^
+@@||github.com^
+@@||hispanoamericanocolegio.cl^
+@@||mail.google.com^
+@@||meet.google.com^
+@@||mesu.apple.com^
+@@||mtalk.google.com^
+@@||netsupport-inc.com^
+@@||netsupportmanager.com^
+@@||netsupportschool.com^
+@@||netsupportsoftware.com^
+@@||objects.githubusercontent.com^
+@@||officecdn.microsoft.com^
+@@||play.google.com^
+@@||raw.githubusercontent.com^
+@@||sourceforge.net^
+@@||supersaas.com^
+@@||swcdn.apple.com^
+@@||update.googleapis.com^
+@@||update.microsoft.com^
+@@||updates.cdn-apple.com^
+@@||windowsupdate.com^
+@@||xp.apple.com^
