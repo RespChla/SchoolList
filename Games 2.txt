@@ -6,3 +6,4 @@
 ||futbol-11.com^
 ||futbol11.com^
 ||wplace.live^
+||archive.org^
