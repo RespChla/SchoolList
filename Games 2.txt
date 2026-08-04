@@ -9,3 +9,4 @@
 ||archive.org^
 ||narutodle.net^
 ||narutodle.org^
+||haxball.com^
