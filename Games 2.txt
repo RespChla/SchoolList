@@ -12,3 +12,4 @@
 ||haxball.com^
 ||ome.tv^
 ||crazygames.com^
+||playtictactoe.org^
