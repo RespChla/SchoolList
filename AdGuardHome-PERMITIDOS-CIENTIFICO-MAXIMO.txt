@@ -1506,8 +1506,6 @@
 ! ==============================================================================
 ! 17 - REPOSITORIOS GENERALES, PLATAFORMAS INSTITUCIONALES Y PRESERVACIÓN DIGITAL — 57 reglas
 ! ==============================================================================
-@@||archive-it.org^
-@@||archive.org^
 @@||bepress.com^
 @@||biodiversitylibrary.org^
 @@||bodleian.ox.ac.uk^
