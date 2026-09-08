@@ -15,3 +15,4 @@
 ||playtictactoe.org^
 ||phindai.org^
 ||scratch.mit.edu^
+||super-mario-bros.gitlab.io^
