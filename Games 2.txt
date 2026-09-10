@@ -16,4 +16,3 @@
 ||phindai.org^
 ||scratch.mit.edu^
 ||super-mario-bros.gitlab.io^
-||ecogpt.com^
