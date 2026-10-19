@@ -17,4 +17,8 @@
 ||scratch.mit.edu^
 ||super-mario-bros.gitlab.io^
 ||google-snake-free.github.io^
-||https://www.digipuzzle.net^
+||digipuzzle.net^
+||cokitos.com^
+||neonwarp.com^
+||tapintime.neonwarp.com^
+||digipuzzle.net^
