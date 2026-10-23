@@ -23,3 +23,6 @@
 ||neonwarp.com^
 ||tapintime.neonwarp.com^
 ||kbhgames.com^
+||loldle.net^
+||genshin.hoyoverse.com^
+||hoyoverse.com^
