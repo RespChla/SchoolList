@@ -29,3 +29,4 @@
 ||calculador.acierta.me^
 ||ia.gratis^
 ||ecogpt.com^
+||ecosia.org^
