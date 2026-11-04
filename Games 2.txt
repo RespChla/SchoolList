@@ -28,3 +28,4 @@
 ||hoyoverse.com^
 ||calculador.acierta.me^
 ||ia.gratis^
+||ecogpt.com^
