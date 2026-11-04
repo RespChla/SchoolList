@@ -30,3 +30,4 @@
 ||ia.gratis^
 ||ecogpt.com^
 ||ecosia.org^
+||scratch.mit.edu^
