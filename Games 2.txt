@@ -31,3 +31,4 @@
 ||ecogpt.com^
 ||ecosia.org^
 ||scratch.mit.edu^
+||web.kiwi.app^
