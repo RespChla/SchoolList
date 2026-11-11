@@ -32,3 +32,4 @@
 ||ecosia.org^
 ||scratch.mit.edu^
 ||web.kiwi.app^
+||southpark.lat^
