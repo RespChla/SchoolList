@@ -33,3 +33,6 @@
 ||scratch.mit.edu^
 ||web.kiwi.app^
 ||southpark.lat^
+||bob-the-robber.gitlab.io^
+||nfsmwested.lauta.site^
+||gdfree.io^
