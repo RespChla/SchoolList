@@ -36,3 +36,4 @@
 ||bob-the-robber.gitlab.io^
 ||nfsmwested.lauta.site^
 ||gdfree.io^
+||calcsolverpro.com^
